@@ -1,0 +1,98 @@
+.row-1 .color-box {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border: 10px solid #654321;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+.row-2 .color-box-red {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border: 10px solid red;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+.row-2 .color-box-green {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border: 10px solid green;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+.row-2 .color-box-yellow {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border: 10px solid yellow;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+.row-2 .color-box-blue {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    border: 10px solid blue;
+    background-color: lightgoldenrodyellow;
+    margin: 10px;
+}
+
+
+
+.color-boxes-yellow {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+    background-color: yellow;
+}
+
+.color-boxes-red {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+    background-color: red;
+}
+
+.color-boxes-blue {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+    background-color: blue;
+}
+
+.color-boxes-green {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+    background-color: green;
+}
+
+.hold {
+    border: solid 5px #ccc;
+}
+ 
+
+.invisible {
+    display: none;
+}
+
+
+
